@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <a>
    <img src="public/img/readMeLogo.jpg"/></>
 <a>
@@ -27,13 +28,27 @@
 The motivation for creating this full-stack application was in hopes of digitalizing a restaurant's menu to expedite the input of the menu's as well as changing particular items a restaurant serves with a click. We created a website for a Peruvian restaurant named Paraiso. Eddie & Kenny utilized MySql for the storage of our databases in which consisted of menu items that are organized individually by section, item description, and price. The information that outputs is all stored in the Schema & Seeds databases that our team developed. We created the foundation for our table using the Schema, which gave a place for our menu items using GET & POST routes. Jeuel implemented a new library he discovered named shoe-laces & utilized a grid system for the layout of our website. The presence of shoelaces allowed for an organized finish to the website's blueprints. 
 
 Our team collaborated & worked together on generating HTML using handlebars, and CSS documents to populate the welcome screen, view menu section, and the restaurant command center. The CSS applied on all the pages created the slide-show background, vibrant color scheme, and appropriate spacing. The implication of handlebars helped simplify the tasks of manually updating data, and kept our HTML pages clean while separating logic-less templates from the business logic in our Javascript files. These changes improved the overall performance & stability of the Paraiso's webpage.
+=======
+  <img src="https://img.shields.io/badge/Release%20Version%20-1.1-orange"/></>
+  <a>
+  </p>
+
+<hr>
+
+<p align="left" margin="auto" class="Description">
+<a>
+  <img src="https://img.shields.io/badge/Description%20-red"/>
+  <a> 
+
+	The motivation for creating this full-stack application was in hopes of digitalizing a restaurant's menu to expedite the input of the menu's as well as changing particular items a restaurant serves with a click. We created a website for a Purivian restaurant named Paraiso's. Eddie & Kenny utilized MySql for the storage of our databases in which consisted of menu items that are organized individually by section, item description, and price. The information that outputs is all stored in the Schema & Seeds databases that our team developed. We created the foundation for our table using the Schema, which gave a place for our menu items using GET & POST routes.  Jeuel implemented a new library he discovered named shoe-laces & utilized a grid system for the layout of our website. The presence of shoe-laces allowed for an organized finish to the website's blueprints. 
+
+	Our team collaborated & worked together on generating HTML using handlebars, and CSS documents to populate the welcome screen, view menu section, and the restaurant command center. The CSS applied on all the pages created the slide-show background, vibrant color scheme, and appropriate spacing. The implication of handlebars helped simplify the tasks of manually updating data, and kept our HTML pages clean while separating logic-less templates from the business logic in our Javascript files. These changes improved the overall performance & stability of the Paraiso's webpage.
 
 <hr>
 
 <p align="left" margin="auto" class="Installation">
 <a>
   <img src="https://img.shields.io/badge/Contents%20-orange"/></>
-<a> 
 
 **[License](.License)**</br>
 **[Contributors](.Contributors)**<br>
