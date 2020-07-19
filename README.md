@@ -46,13 +46,14 @@ Our team collaborated & worked together on generating HTML using handlebars, and
 * mit
 
 ## Contribuitors
-* Jeuel Viveros (vjeuel)
-* Kenan Deari (KenanDeari)
-* Kulpreet Singh (ksingh-1)
-* Eddie Sevilla (esevilla93). 
+### Github
+* [Jeuel Viveros](https://github.com/vjeuel)
+* [Kenan Deari](https://github.com/KenanDeari))
+* [Kulpreet Singh](https://github.com/ksingh-1)
+* [Eddie Sevilla](https://github.com/esevilla93)
 
 ## Contact
-# By email:
+### By email:
 * k_deari@yahoo.com
 * vjeuel@gmail.com
 * kulpreet.s18@gmail.com
