@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="">
+  <a href="https://digital-menu-project.herokuapp.com/view-menu">
     <img src="public/img/readMeLogo.jpg" width="450px">
   </a>
 </p>
@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Release%20Version%20-1.1-orange"/>
 </p>
 
-You can access the app [here](https:)
+You can access the app [here](https://digital-menu-project.herokuapp.com/view-menu)
 
 ## Description
 The motivation for creating this full-stack application was in hopes of digitalizing a restaurant's menu to expedite the input of the menu's as well as changing particular items a restaurant serves with a click. We created a website for a Peruvian restaurant named Paraiso. Eddie & Kenny utilized MySql for the storage of our databases in which consisted of menu items that are organized individually by section, item description, and price. The information that outputs is all stored in the Schema & Seeds databases that our team developed. We created the foundation for our table using the Schema, which gave a place for our menu items using GET & POST routes. Jeuel implemented a new library he discovered named shoe-laces & utilized a grid system for the layout of our website. The presence of shoelaces allowed for an organized finish to the website's blueprints. 
