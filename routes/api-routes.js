@@ -102,37 +102,3 @@ module.exports = app => {
     });
   });
 };
-
-
-
-  // POST
-  // app.post("/api/paraiso", (req, res) => {
-  //   db.paraiso.create(req.body).then(dbParaiso => {
-  //     res.json(dbParaiso);
-  //   });
-  // });
-
-  // PUT
-  // app.put("/api/paraiso", (req, res) => {
-  //   db.paraiso.update(
-  //     req.body,
-  //     {
-  //       where: {
-  //         id: req.body.id
-  //       }
-  //     }).then(dbParaiso => {
-  //     res.json(dbParaiso);
-  //   });
-  // });
-   
-  // DELETE
-//   app.delete("/api/paraiso/:id", (req, res) => {
-//     db.paraiso.destroy({
-//       where: {
-//         id: req.params.id
-//       }
-//     }).then(dbParaiso => {
-//       res.json(dbParaiso);
-//     });
-//   });
-// };

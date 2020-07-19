@@ -85,22 +85,3 @@ $(document).ready(() => {
       });
    });
 });
-
-
- // $(".update-item").on("click", function (event) {
-   //    event.preventDefault();
-   //    let id = $(this).data("id");
-   //    $.ajax({
-   //       url: "/api/view-menu/" + id,
-   //       type: "PUT",
-   //       data: {
-   //          section: $(this).data("section"),
-   //          item: $(this).data("item"),
-   //          descrip: $(this).data("descrip"),
-   //          price: $(this).data("price")
-   //       }
-   //    }).then(function () {
-   //       console.log("Updated item", id);
-   //       location.reload();
-   //    });
-   // });
